@@ -5,8 +5,8 @@ My interests are: Evolutionary Biology, Synthetic Biology, Systems Biology, Mach
 
 Skills: Python / Bash / R / perl
 
-- 🔭 I’m currently working on genome assembly algorithms 
-- 🌱 I’m currently learning deep learning 
+- 🔭 I’m currently working on Genome Assembly Algorithms 
+- 🌱 I’m currently learning Deep Learning 
 - 📫 How to reach me: marcomonti.mm94@gmail.com
 
 
