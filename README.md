@@ -1,7 +1,7 @@
 ### Hi there, I'm Marco 👋
 
-#### I am PhD stundent in Synthetic Biology and Bioinformatics
-My interests are: Evolutionary Biology, Synthetic Biology, Systems Biology, Machine Learning, Math, Chaos Theory, Fractals
+#### I got a PhD in Synthetic Biology and Bioinformatics at the University of Manchester
+My interests are: Evolutionary Biology, Synthetic Biology, Systems Biology, Bioinformatics, Machine Learning, Math, Chaos Theory, Chess.
 
 Skills: Python / Bash / R / perl
 
