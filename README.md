@@ -1,7 +1,9 @@
 ### Hi there, I'm Marco 👋
 
-#### I got a PhD in Synthetic Biology and Bioinformatics at the University of Manchester
-My interests are: Evolutionary Biology, Synthetic Biology, Systems Biology, Bioinformatics, Machine Learning, Math, Chaos Theory, Chess.
+#### I am a graduate PhD student in Bioinformatics and Biotechnology from the University of Manchester.
+I am driven by a passion for using my knowledge and skills to drive research and innovation at the intersection of biology and technology. My research interests include Evolutionary Biology, Synthetic Biology, and Machine Learning, and I am always looking for ways to apply these disciplines to solve real-world problems.
+
+In my free time, I enjoy delving into the worlds of math and chaos theory, as well as indulging my love of chess. I am excited to connect with like-minded professionals and explore new opportunities in these fields.
 
 Skills: Python / Bash / R / perl
 
