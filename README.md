@@ -1,14 +1,13 @@
 ### Hi there, I'm Marco 👋
 
-#### I am a graduate PhD student in Bioinformatics and Biotechnology from the University of Manchester.
+#### I got my PhD in Bioinformatics and Biotechnology from the University of Manchester and now I am working as a postdoc bioinformatician in the San Raffaele Hospital in Milan.
 I am driven by a passion for using my knowledge and skills to drive research and innovation at the intersection of biology and technology. My research interests include Evolutionary Biology, Synthetic Biology, and Machine Learning, and I am always looking for ways to apply these disciplines to solve real-world problems.
 
 In my free time, I enjoy delving into the worlds of math and chaos theory, as well as indulging my love of chess. I am excited to connect with like-minded professionals and explore new opportunities in these fields.
 
 Skills: Python / Bash / R / perl
 
-- 🔭 I’m currently working on Genome Assembly Algorithms 
-- 🌱 I’m currently looking for my next project
+- 🔭 I’m currently working on Single-Cell RNA Sequencing and Genome Assembly Algorithms
 - 📫 How to reach me: marcomonti.mm94@gmail.com
 
 
